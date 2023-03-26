@@ -1,0 +1,3 @@
+PM> Enable-Migrations
+PM> Add-Migration firstMigration
+PM> Update-Database
